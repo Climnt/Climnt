@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clint or @Climnt
+- 👋 Hi, I’m Clint or @Clxnt
 - 👀 I’m interested in web development 
 - 🌱 I’m currently a student and learning html, css and javascript 
 - 😄 Pronouns: fish
